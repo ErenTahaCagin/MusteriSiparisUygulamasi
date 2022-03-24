@@ -1,0 +1,7 @@
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\MusteriSiparisHesaplama\MusteriSiparisHesaplama\bin\Debug\MusteriSiparisHesaplama.exe
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\MusteriSiparisHesaplama\MusteriSiparisHesaplama\bin\Debug\MusteriSiparisHesaplama.pdb
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\MusteriSiparisHesaplama\MusteriSiparisHesaplama\obj\x86\Debug\MusteriSiparisHesaplama.Form1.resources
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\MusteriSiparisHesaplama\MusteriSiparisHesaplama\obj\x86\Debug\MusteriSiparisHesaplama.Properties.Resources.resources
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\MusteriSiparisHesaplama\MusteriSiparisHesaplama\obj\x86\Debug\MusteriSiparisHesaplama.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\MusteriSiparisHesaplama\MusteriSiparisHesaplama\obj\x86\Debug\MusteriSiparisHesaplama.exe
+C:\Users\Kullanıcı\Documents\Visual Studio 2010\Projects\MusteriSiparisHesaplama\MusteriSiparisHesaplama\obj\x86\Debug\MusteriSiparisHesaplama.pdb
